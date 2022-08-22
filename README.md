@@ -59,8 +59,8 @@ Ballots take time to arrive and time to return, sometimes several weeks. Please 
 
 You have 2 options -
 
-* You can drop off your ballot at a dropbox anytime before 7PM on Nov 8, 2022. (The list of dropbox locations is not available yet - check this site again soon for an update!)
-* You can return your ballot via USPS mail. It must arrive before 7PM on Nov 8, 2022. It is heavily recommended you mail your ballot by Oct 15 to gurantee it reaches in time.
+* You can drop off your ballot at a **dropbox** anytime before 7PM on Nov 8, 2022. (The list of dropbox locations is not available yet - check this site again soon for an update!)
+* You can return your ballot via **USPS mail**. It must arrive before 7PM on Nov 8, 2022. It is heavily recommended you mail your ballot by Oct 15 to gurantee it reaches in time.
 
 
 ### Can I vote Early in-Person? Where do I vote?
@@ -75,8 +75,6 @@ You can find your designated polling location by logging in to your [Georgia My 
 **Yes!** If you are living on campus or off campus in Georgia, you are eligible to register before the deadline of Oct 11, 2022.
 
 If you are in Georgia but live off-campus, you can use the street address of your off-campus housing in Georgia to register.
-
-[1] : [/r/georgia](https://old.reddit.com/r/Georgia/comments/jor25e/attention_georgia_voters_re_upcoming_georgia/)
 
 
 ### What if I my Mail-In/Absentee never arrives or I need a new one?
