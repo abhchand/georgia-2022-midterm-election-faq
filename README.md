@@ -8,6 +8,21 @@ On **Tue Nov 8, 2022** you'll get a chance to vote in several local, state, and 
 * GA Governor: Brian Kemp (R) vs Stacey Abrams (D)
 * Your district's US Congressional Representative
 
+
+- [Why Is this Important?](#why-is-this-important-)
+- [FAQ](#faq)
+    + [Am I registered to Vote?](#am-i-registered-to-vote-)
+    + [Can I still Register to Vote for November?](#can-i-still-register-to-vote-for-november-)
+    + [Can I Vote By Mail/Absentee? How do I request a ballot?](#can-i-vote-by-mail-absentee--how-do-i-request-a-ballot-)
+    + [How Do I return my Mail-In/Absentee ballot?](#how-do-i-return-my-mail-in-absentee-ballot-)
+    + [Can I vote Early in-Person? Where do I vote?](#can-i-vote-early-in-person--where-do-i-vote-)
+    + [I'm an out-of-state College Student - can I register to vote?](#i-m-an-out-of-state-college-student---can-i-register-to-vote-)
+    + [What if I my Mail-In/Absentee never arrives or I need a new one?](#what-if-i-my-mail-in-absentee-never-arrives-or-i-need-a-new-one-)
+    + [How Do I check the status of my Mail-In/Absentee ballot?](#how-do-i-check-the-status-of-my-mail-in-absentee-ballot-)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
+
 # Why Is this Important?
 
 On a local and state level, elections have a huge impact on our lives. They determine taxes, funding, public services, public policy, and more.
