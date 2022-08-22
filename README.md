@@ -1,5 +1,7 @@
 # Georgia 2022 Midterm Election FAQ
 
+<img src="https://suncatcherstudio.com/uploads/patterns/us-states/outlines/thick/blank/svg/georgia-thick-outline-444444.png" height="200px" />
+
 Georgia saw an incredible voter turnout this past election, and now it's at the center of another important set of races at the state and federal level 🇺🇸🇺🇸
 
 On **Tue Nov 8, 2022** you'll get a chance to vote in several local, state, and federal races, including the following:
