@@ -8,6 +8,7 @@ On **Tue Nov 8, 2022** you'll get a chance to vote in several local, state, and 
 * GA Governor: Brian Kemp (R) vs Stacey Abrams (D)
 * Your district's US Congressional Representative
 
+---
 
 - [Why Is this Important?](#why-is-this-important-)
 - [FAQ](#faq)
@@ -19,8 +20,6 @@ On **Tue Nov 8, 2022** you'll get a chance to vote in several local, state, and 
     + [I'm an out-of-state College Student - can I register to vote?](#i-m-an-out-of-state-college-student---can-i-register-to-vote-)
     + [What if I my Mail-In/Absentee never arrives or I need a new one?](#what-if-i-my-mail-in-absentee-never-arrives-or-i-need-a-new-one-)
     + [How Do I check the status of my Mail-In/Absentee ballot?](#how-do-i-check-the-status-of-my-mail-in-absentee-ballot-)
-
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
 
 # Why Is this Important?
@@ -51,12 +50,10 @@ You can request a ballot online at https://ballotrequest.sos.ga.gov/
 
 You can also request a ballot by mail, phone, or fax. See the [Georgia State](https://georgia.gov/vote-absentee-ballot) registration page for more information.
 
----
 **NOTE**
 
 Ballots take time to arrive and time to return, sometimes several weeks. Please request your ballot **AS SOON AS POSSIBLE** to avoid any delays.
 
----
 
 ### How Do I return my Mail-In/Absentee ballot?
 
